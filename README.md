@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source, and 
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://linkedin.com/in/devtanushree)
-- [Twitter](https://twitter.com/devtanushree)
+- [Twitter](https://twitter.com/devtanushreeG)
 
 ---
 
